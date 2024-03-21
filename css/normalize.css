@@ -440,3 +440,8 @@ nav ul li {
   display: inline-block;
   margin: 0 10px;
 }
+
+nav ul li a {
+  color: #fff; /* Text color */
+  text-decoration: none; /* Remove underline */
+}
