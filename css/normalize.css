@@ -459,12 +459,18 @@ aside {
 
 aside ul {
   list-style: none;
-  display: inline-block;
   margin: 0;
   padding: 0;
+}
+
+aside ul li {
+  display: block;
+  margin: 10px 0;
 }
 
 aside ul li a {
   color: #fff;
   text-decoration: none;
+  display: block;
+  padding: 10px;
 }
