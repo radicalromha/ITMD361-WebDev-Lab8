@@ -462,3 +462,8 @@ aside ul {
   margin: 0;
   padding: 0;
 }
+
+aside ul li a {
+  color: #fff;
+  text-decoration: none;
+}
